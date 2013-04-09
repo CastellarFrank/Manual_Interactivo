@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\windowsstarted.o
+./release\header.o
+./release\metadata.o
+./release\compiler.o
+./release\codeeditor.o
+./release\editorhighlighter.o
+./release\clasesform.o
+./release\moc_mainwindow.o
+./release\moc_windowsstarted.o
+./release\moc_compiler.o
+./release\moc_codeeditor.o
+./release\moc_editorhighlighter.o
+./release\moc_clasesform.o
+);

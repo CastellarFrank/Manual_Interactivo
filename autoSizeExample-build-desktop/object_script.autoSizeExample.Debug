@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\windowsstarted.o
+./debug\header.o
+./debug\metadata.o
+./debug\compiler.o
+./debug\codeeditor.o
+./debug\editorhighlighter.o
+./debug\clasesform.o
+./debug\moc_mainwindow.o
+./debug\moc_windowsstarted.o
+./debug\moc_compiler.o
+./debug\moc_codeeditor.o
+./debug\moc_editorhighlighter.o
+./debug\moc_clasesform.o
+);
